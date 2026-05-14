@@ -9,7 +9,7 @@ This project develops a Convolutional Neural Network (CNN) to accurately classif
 Lung cancer is one of the leading causes of cancer-related deaths worldwide. Automated image classification can assist radiologists by reducing diagnostic time and improving detection accuracy, especially in high-volume clinical settings.
 
 ## 🗂️ Dataset
-- **Source**: Lung cancer CT scan dataset (Kaggle / AWS S3)
+- **Source**: Lung cancer CT scan dataset ([Kaggle](https://www.kaggle.com/datasets/rm1000/lung-cancer-histopathological-images/data))
 - **Target**: Multi-class classification of lung cancer types
 - **Features**: Medical images (CT scans)
 
